@@ -1,2 +1,2 @@
 # edu-app
-This will help me learn Next js , Tailwind css and Typescript 
+This application  will help me learn Next js , Tailwind css and Typescript 
